@@ -51,6 +51,4 @@ $Q(a) \leftarrow Q(a) + \alpha \left( r + \gamma \max_{a'} Q(a') - Q(a) \right)$
 
 ## Пример развернутой среды (в виде траектории), используя стратегию epsilon-greedy
 
-<video width="320" height="240" controls>
-  <source src="sandbox/videos/final-gif.mp4" type="video/mp4">
-</video>
+![](assets/epsilon-greedy-episode5.gif)
