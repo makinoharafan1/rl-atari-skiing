@@ -5,6 +5,10 @@ __pycache__/
 
 rl-skiing/
 
+/videos_sarsa
+/videos_ac
+/sandbox
+
 # C extensions
 *.so
 
